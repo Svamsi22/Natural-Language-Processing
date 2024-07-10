@@ -24,43 +24,6 @@ This project focuses on text generation using Long Short-Term Memory (LSTM) neur
 - Python 3.7 or higher
 - Required Python libraries: TensorFlow, Keras, NumPy, Pandas, NLTK
 
-### Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/Svamsi22/NLP-Text-Generation-Project.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd NLP-Text-Generation-Project
-    ```
-3. Install the required libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-### Usage
-1. Preprocess the data:
-    ```bash
-    python preprocess.py
-    ```
-2. Train the LSTM model:
-    ```bash
-    python train.py
-    ```
-3. Generate text using the trained model:
-    ```bash
-    python generate.py
-    ```
-
-### Project Structure
-- **data/**: Directory containing the dataset.
-- **src/**
-  - `preprocess.py`: Script for data preprocessing and tokenization.
-  - `train.py`: Script for training the LSTM model.
-  - `generate.py`: Script for generating text using the trained model.
-- **models/**: Directory for saving trained models.
-- **notebooks/**: Jupyter notebooks for experimentation and visualization.
-- **requirements.txt**: List of required Python libraries.
 
 ## Results
 The project achieved an accuracy of 78.57% in text generation, demonstrating the effectiveness of the preprocessing pipeline and the LSTM model.
