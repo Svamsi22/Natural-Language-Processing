@@ -31,8 +31,6 @@ The project achieved an accuracy of 78.57% in text generation, demonstrating the
 ## Contribution
 Feel free to fork this repository, make enhancements, and submit pull requests. Contributions are always welcome!
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 Special thanks to all the open-source contributors whose libraries and tools facilitated this project.
